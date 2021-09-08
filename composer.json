@@ -4,7 +4,7 @@
     "keywords": ["time transform", "laravel", "arithmetic expressions calculator"],
     "homepage": "https://github.com/pgogop/php-shell-tools",
     "type": "project",
-    "license": "Apache License 2.0",
+    "license": "Apache-2.0",
     "support": {
         "issues": "https://github.com/pgogop/php-shell-tools/issues",
         "source": "https://github.com/pgogop/php-shell-tools"
