@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "67473ab90ccfb5b5568ee8480552b76f",
+    "content-hash": "5b2a65803b3a346ea0e20375c236f736",
     "packages": [
         {
             "name": "brick/math",
@@ -375,55 +375,6 @@
                 }
             ],
             "time": "2021-08-29T12:00:00+00:00"
-        },
-        {
-            "name": "fintara/calculator-php",
-            "version": "2.0.0",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/fintara/calculator-php.git",
-                "reference": "80c7e2625e9b1401c1c4eb9136d1fc9bacb5d666"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/fintara/calculator-php/zipball/80c7e2625e9b1401c1c4eb9136d1fc9bacb5d666",
-                "reference": "80c7e2625e9b1401c1c4eb9136d1fc9bacb5d666",
-                "shasum": "",
-                "mirrors": [
-                    {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
-                        "preferred": true
-                    }
-                ]
-            },
-            "require": {
-                "php": ">=7.1"
-            },
-            "require-dev": {
-                "phpunit/phpunit": "^6.2"
-            },
-            "type": "library",
-            "autoload": {
-                "psr-4": {
-                    "Fintara\\Tools\\Calculator\\": "src/"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Tsvetan Ovedenski",
-                    "email": "dev@tsovedenski.com"
-                }
-            ],
-            "description": "Calculator for arithmetic expressions",
-            "support": {
-                "issues": "https://github.com/fintara/calculator-php/issues",
-                "source": "https://github.com/fintara/calculator-php/tree/master"
-            },
-            "time": "2017-09-06T11:35:34+00:00"
         },
         {
             "name": "graham-campbell/result-type",

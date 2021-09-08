@@ -17,7 +17,6 @@
     ],
     "require": {
         "php": "^7.3|^8.0",
-        "fintara/calculator-php": "^2.0",
         "laravel-zero/framework": "^8.8",
         "nxp/math-executor": "^2.1"
     },

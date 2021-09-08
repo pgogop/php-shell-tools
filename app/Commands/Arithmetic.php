@@ -2,7 +2,6 @@
 
 namespace App\Commands;
 
-use Fintara\Tools\Calculator\Calculator;
 use Illuminate\Console\Scheduling\Schedule;
 use LaravelZero\Framework\Commands\Command;
 use NXP\MathExecutor;
