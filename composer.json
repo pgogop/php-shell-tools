@@ -1,18 +1,18 @@
 {
-    "name": "laravel-zero/laravel-zero",
-    "description": "The Laravel Zero Framework.",
-    "keywords": ["framework", "laravel", "laravel zero", "console", "cli"],
-    "homepage": "https://laravel-zero.com",
+    "name": "xiongchao/shell-tools",
+    "description": "the tools for shell",
+    "keywords": ["time transform", "laravel", "arithmetic expressions calculator"],
+    "homepage": "https://github.com/pgogop/php-shell-tools",
     "type": "project",
-    "license": "MIT",
+    "license": "Apache License 2.0",
     "support": {
-        "issues": "https://github.com/laravel-zero/laravel-zero/issues",
-        "source": "https://github.com/laravel-zero/laravel-zero"
+        "issues": "https://github.com/pgogop/php-shell-tools/issues",
+        "source": "https://github.com/pgogop/php-shell-tools"
     },
     "authors": [
         {
-            "name": "Nuno Maduro",
-            "email": "enunomaduro@gmail.com"
+            "name": "Chao Xiong",
+            "email": "chaoshuai.cx@gmail.com"
         }
     ],
     "require": {
