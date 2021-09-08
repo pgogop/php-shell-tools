@@ -29,7 +29,7 @@ class Arithmetic extends Command
      */
     public function handle()
     {
-        $input = $this->ask('Please input expressions?');
+        $input = $this->ask('Please input expressions');
 
         $executor = new MathExecutor();
         $result = $executor->execute($input);

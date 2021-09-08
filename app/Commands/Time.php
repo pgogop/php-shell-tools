@@ -42,11 +42,11 @@ class Time extends Command
 
         switch ($action) {
             case "time2date":
-                $input = $this->ask('Please input time?');
+                $input = $this->ask('Please input time');
                 $this->info("output: " . date("Y-m-d H:i:s", $input));
                 break;
             case "date2time":
-                $input = $this->ask('Please input date?');
+                $input = $this->ask('Please input date');
                 $this->info("output: " . strtotime($input));
                 break;
         }
