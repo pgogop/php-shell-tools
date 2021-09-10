@@ -17,6 +17,7 @@
     ],
     "require": {
         "php": "^7.3|^8.0",
+        "intonate/tinker-zero": "^1.2",
         "laravel-zero/framework": "^8.8",
         "nxp/math-executor": "^2.1"
     },
