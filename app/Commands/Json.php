@@ -28,7 +28,11 @@ class Json extends Command
      */
     public function handle()
     {
-        $input = $this->ask('input your json string');
+        $input = $this->ask('input your json string or filepath');
+
+        if (is_file($input)){
+            $input = file_get_contents($input);
+        }
 
         $decode = json_decode($input);
         if (!$decode) {
